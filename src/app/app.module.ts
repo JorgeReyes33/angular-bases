@@ -7,6 +7,8 @@ import { AppComponent } from './app.component';
 import { CounterModule } from './counter/counter.module';
 import { HeroesModule } from './heroes/heroes.module';
 
+//git checkout -- .
+
 @NgModule({
   declarations: [
     //Aqui se declaran los componentes para poder usarlos en otros modulos
